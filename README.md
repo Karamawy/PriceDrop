@@ -1,6 +1,6 @@
 PriceDrop (BlackFridaySaver)
 ========
-PriceDrop is a Program to help you in **shopping** and finding deals it allows you to put alot of urls of items in the text file and the desired price you want it to be and checks for you if the price is the desired one it sends you an email.
+PriceDrop is a program to help you in **shopping** and finding deals it allows you to put alot of items in a file and the price that you would like to buy , whenever the price drops it sends you an email.
 ---
 **This Program is working on souq.com**  
 
